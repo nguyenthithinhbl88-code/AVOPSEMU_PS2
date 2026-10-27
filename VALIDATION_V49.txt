@@ -1,0 +1,7 @@
+AVOPSEMU PS2 v49
+34 PS2 suites passed, clean independent GCC C++17 -O2 -Wall -Wextra -Werror -pthread build and CLI link.
+4 ASan/UBSan suites passed: ps2_dma_boot_loop_tests, ps2_dma_init_tests, ps2_gs_boot_trace_tests, ps2_hardware_tests.
+Whole observed common DMA clear loop fixture: v48 hardware -> B000B080 stop; v49 -> PC 8000DE38.
+Compatibility slots tested for all ten channels, masks/aliases, independent backing, strict neighboring/width guards, active DMA rejection/reset, selected vs skipped channels, no fabricated transfer/video, GS MMIO trace and snapshot behavior.
+PS1: all 200 packaged files byte-identical to prior release. Separate GS window auto-open preserved.
+No native CMake/RC/MSVC/Windows UI or real PS2 BIOS execution available. Complete BIOS rendering not confirmed.

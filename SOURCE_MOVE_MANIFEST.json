@@ -1,0 +1,350 @@
+[
+  {
+    "file": "src/ps2_ba0.cpp",
+    "sha256_before": "6d943ac57d34fd8181fefd6f70d77139528de47bff4f35a5c36ce025935a16af",
+    "sha256_after": "6d943ac57d34fd8181fefd6f70d77139528de47bff4f35a5c36ce025935a16af",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_boot_status.cpp",
+    "sha256_before": "5502d5075dbed418f2fc590cbb7a6e20e932c9d3abf543a13da01196a4a986b2",
+    "sha256_after": "5502d5075dbed418f2fc590cbb7a6e20e932c9d3abf543a13da01196a4a986b2",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_cache.cpp",
+    "sha256_before": "b8712c58fe7ff651cb8769daca793cf05f632f76e7dfcba8b4c08b56aa6106ac",
+    "sha256_after": "b8712c58fe7ff651cb8769daca793cf05f632f76e7dfcba8b4c08b56aa6106ac",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_cop0.cpp",
+    "sha256_before": "d43c769ce5abe33f753bb1a26de8d1f2dab10264c12b16b1688f45c4e06585f1",
+    "sha256_after": "d43c769ce5abe33f753bb1a26de8d1f2dab10264c12b16b1688f45c4e06585f1",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_cop1.cpp",
+    "sha256_before": "e79a27ff869c40f8af014362dbf401ba738a35c67861065d74bcaf6cd6d5f1aa",
+    "sha256_after": "e79a27ff869c40f8af014362dbf401ba738a35c67861065d74bcaf6cd6d5f1aa",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_dma.cpp",
+    "sha256_before": "5d4623185dce40370ae0badc49b6c9c16c40cb75e660f2ca0ece7782e4608909",
+    "sha256_after": "5d4623185dce40370ae0badc49b6c9c16c40cb75e660f2ca0ece7782e4608909",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_ee.cpp",
+    "sha256_before": "1590c9038652ccf07a44ac8c2d36b1ccb47ff664ef336865d5d2d509272c4b6c",
+    "sha256_after": "1590c9038652ccf07a44ac8c2d36b1ccb47ff664ef336865d5d2d509272c4b6c",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_ee.hpp",
+    "sha256_before": "8996e95a55203311ba1765ba73a1b8bf2354921722a56d94547c8b15207992df",
+    "sha256_after": "8996e95a55203311ba1765ba73a1b8bf2354921722a56d94547c8b15207992df",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_gs.cpp",
+    "sha256_before": "a43e87ee8369cf2eb1ed2dfc583f8ceb97c88fcb387245eb23761c0ee845375b",
+    "sha256_after": "a43e87ee8369cf2eb1ed2dfc583f8ceb97c88fcb387245eb23761c0ee845375b",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_gs.hpp",
+    "sha256_before": "5efe677acd761767de8c1b4c58e125affe6ff1f248176c77e993328cf733af60",
+    "sha256_after": "5efe677acd761767de8c1b4c58e125affe6ff1f248176c77e993328cf733af60",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_gs_render.cpp",
+    "sha256_before": "e14a028c242408d56a3fb3535dc0cd678ea09a8a0f56dd0fc5c69a51a19b67e9",
+    "sha256_after": "e14a028c242408d56a3fb3535dc0cd678ea09a8a0f56dd0fc5c69a51a19b67e9",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_hardware.cpp",
+    "sha256_before": "2a50a8d56e13308f17d9d691828f34025561f3a3dab5ad15b666210a091643b3",
+    "sha256_after": "2a50a8d56e13308f17d9d691828f34025561f3a3dab5ad15b666210a091643b3",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_iop.cpp",
+    "sha256_before": "cf23439abeb7acdb4b00f27d1a4fa05936d6e73792f9960145b8e4c150b668f4",
+    "sha256_after": "cf23439abeb7acdb4b00f27d1a4fa05936d6e73792f9960145b8e4c150b668f4",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_ipu.cpp",
+    "sha256_before": "254af8c9c5dc34756471265e393b5872c9ca3ddcc46f74d937bf1cb154574b92",
+    "sha256_after": "254af8c9c5dc34756471265e393b5872c9ca3ddcc46f74d937bf1cb154574b92",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_main.cpp",
+    "sha256_before": "8dbebd028726e5643f7d03b51165ff29525d7fca1f67810be945aa3bc8666e9e",
+    "sha256_after": "8dbebd028726e5643f7d03b51165ff29525d7fca1f67810be945aa3bc8666e9e",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_memory_controller.cpp",
+    "sha256_before": "027e3a1b9c0f665d10e2bc84a53aec3133cb9c0821fd72fa10c6d5190f9c9a96",
+    "sha256_after": "027e3a1b9c0f665d10e2bc84a53aec3133cb9c0821fd72fa10c6d5190f9c9a96",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_mmi.cpp",
+    "sha256_before": "e61ee44b2a4069f82cfd2b907b839feb65f48b5c69ce95136f2799610b4a1def",
+    "sha256_after": "e61ee44b2a4069f82cfd2b907b839feb65f48b5c69ce95136f2799610b4a1def",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_peripherals.cpp",
+    "sha256_before": "ce0ee13bef763ccb4f970e1d05e53335134111d0172acbc985702480b5f37de4",
+    "sha256_after": "ce0ee13bef763ccb4f970e1d05e53335134111d0172acbc985702480b5f37de4",
+    "unchanged": true
+  },
+  {
+    "file": "src/ps2_window.cpp",
+    "sha256_before": "37be900065b9cafe5d9b2220c8ff4c0d76e9397dcfb1bb8e86776291d4491978",
+    "sha256_after": "35bfe83dc9b267f0922ef9053743a9313c7daa113809191baee7b7f1d790038c",
+    "unchanged": false
+  },
+  {
+    "file": "src/ps2_window.hpp",
+    "sha256_before": "d3b528b76990f34e7f39eb609f50cf0a7f1b52b386bb7a2c43c57054af5ceb5c",
+    "sha256_after": "6c3c7765431bf90294c99038241f18848a0d2c9fef36d096ba5ff6f5be21e502",
+    "unchanged": false
+  },
+  {
+    "file": "tests/ps2_ba0_tests.cpp",
+    "sha256_before": "d6d2e56a12640b7287b99741bc02f1d9806d99c50856563b9851cae95dcc5ac8",
+    "sha256_after": "d6d2e56a12640b7287b99741bc02f1d9806d99c50856563b9851cae95dcc5ac8",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_bios_pipeline_tests.cpp",
+    "sha256_before": "b25a2a131aa639e606f49a1076b7543ff428b186b278515085c50f28b1189d14",
+    "sha256_after": "b25a2a131aa639e606f49a1076b7543ff428b186b278515085c50f28b1189d14",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_boot_mmio_tests.cpp",
+    "sha256_before": "25e1ce26ef37b230988b59c8113526cffbb3fc14659251fa3f94e95f45655b2e",
+    "sha256_after": "25e1ce26ef37b230988b59c8113526cffbb3fc14659251fa3f94e95f45655b2e",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_boot_progress_tests.cpp",
+    "sha256_before": "1aadc7d2ead1010b034c03111f4462bd4149fa0106d2edd955b3c5702cda1092",
+    "sha256_after": "1aadc7d2ead1010b034c03111f4462bd4149fa0106d2edd955b3c5702cda1092",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_branch_tests.cpp",
+    "sha256_before": "0cbd494b7b984a6f782f7aa0f2c5c097a2d0c2f992ad35dbe4c2cd111a0e5267",
+    "sha256_after": "0cbd494b7b984a6f782f7aa0f2c5c097a2d0c2f992ad35dbe4c2cd111a0e5267",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_cache_tests.cpp",
+    "sha256_before": "57e0baf8b494068b197497c371ca5f53598464e71d5c4911219cf6e6bdda59fa",
+    "sha256_after": "57e0baf8b494068b197497c371ca5f53598464e71d5c4911219cf6e6bdda59fa",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_chain_tests.cpp",
+    "sha256_before": "14d6e357c11b820f2fb917c3ab69603a0f861b4b849bac80baf6c750a5623fc2",
+    "sha256_after": "14d6e357c11b820f2fb917c3ab69603a0f861b4b849bac80baf6c750a5623fc2",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_cop0_tlb_tests.cpp",
+    "sha256_before": "ba69434713c6558bf522ceaa9a12d674b6175c13080fb2dda7bc752d4380875a",
+    "sha256_after": "ba69434713c6558bf522ceaa9a12d674b6175c13080fb2dda7bc752d4380875a",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_cop1_tests.cpp",
+    "sha256_before": "590021f3fba41df9e9a04af76a472df9f787515f16a0fe0c27a8501c7841aa45",
+    "sha256_after": "590021f3fba41df9e9a04af76a472df9f787515f16a0fe0c27a8501c7841aa45",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_cpu_boot_tests.cpp",
+    "sha256_before": "26ffe8c38096b8e188d447392b82e5add77c46bede9bfb30bb2a9a7dd7e70273",
+    "sha256_after": "26ffe8c38096b8e188d447392b82e5add77c46bede9bfb30bb2a9a7dd7e70273",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_ee_tests.cpp",
+    "sha256_before": "28272ad7c48aa8466210abab3f06dbcc7118dcac897ba062bd8859b2e2c439ff",
+    "sha256_after": "28272ad7c48aa8466210abab3f06dbcc7118dcac897ba062bd8859b2e2c439ff",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_gif_bios_tests.cpp",
+    "sha256_before": "20708a8ed86e54279de856a9cdea9feb283f1b61509fcdc8b69ec5d531aaf874",
+    "sha256_after": "20708a8ed86e54279de856a9cdea9feb283f1b61509fcdc8b69ec5d531aaf874",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_gouraud_tests.cpp",
+    "sha256_before": "dd9892210625224966fb9634aa7baeef583db1dca0ab83b8f68b3c0ef8a76347",
+    "sha256_after": "dd9892210625224966fb9634aa7baeef583db1dca0ab83b8f68b3c0ef8a76347",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_gs_alpha_tests.cpp",
+    "sha256_before": "ecff6eea889cce4f27646765258fd6aa28f197cc17684d3114b3ec764b598905",
+    "sha256_after": "ecff6eea889cce4f27646765258fd6aa28f197cc17684d3114b3ec764b598905",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_gs_boot_trace_tests.cpp",
+    "sha256_before": "9327328770fb6addde6eeac12681b741cc86c3ace081a90a95e70b2f01d3b702",
+    "sha256_after": "9327328770fb6addde6eeac12681b741cc86c3ace081a90a95e70b2f01d3b702",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_gs_mmio_tests.cpp",
+    "sha256_before": "3b056518de7581107d212c4f0565870f287488076e802e68d199426d771b58eb",
+    "sha256_after": "3b056518de7581107d212c4f0565870f287488076e802e68d199426d771b58eb",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_hardware_tests.cpp",
+    "sha256_before": "f2a06196b5deac7d5927f6752635cf8b4ea4ea37f41255eb0b6756005f712033",
+    "sha256_after": "f2a06196b5deac7d5927f6752635cf8b4ea4ea37f41255eb0b6756005f712033",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_iop_boot_tests.cpp",
+    "sha256_before": "cf72078f7817147d9f05dcf4bab4edb230da449f1427a64cc38d7716bf22e488",
+    "sha256_after": "cf72078f7817147d9f05dcf4bab4edb230da449f1427a64cc38d7716bf22e488",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_iop_halfword_tests.cpp",
+    "sha256_before": "b8d8b3b2009482e23a71b387fc27573d7b87d8ac9cbd6a2b0e69819e40ca9061",
+    "sha256_after": "b8d8b3b2009482e23a71b387fc27573d7b87d8ac9cbd6a2b0e69819e40ca9061",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_iop_register_tests.cpp",
+    "sha256_before": "3b7bb3d857fafe3d61ac73792ab1e38c920767d03d0a46f80654a4e258abf35f",
+    "sha256_after": "3b7bb3d857fafe3d61ac73792ab1e38c920767d03d0a46f80654a4e258abf35f",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_ipu_boot_tests.cpp",
+    "sha256_before": "97becec8a287ce8c9c8fedaf7c1221da493bb51a0a5facd9f23c9def428ad459",
+    "sha256_after": "97becec8a287ce8c9c8fedaf7c1221da493bb51a0a5facd9f23c9def428ad459",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_memory_controller_tests.cpp",
+    "sha256_before": "e1f9fcc86c78e51641b99d3e76c0e79ce74c03b8915e6455eba5093e7b529b4d",
+    "sha256_after": "e1f9fcc86c78e51641b99d3e76c0e79ce74c03b8915e6455eba5093e7b529b4d",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_packed_tests.cpp",
+    "sha256_before": "ead0c2165efa9337d6ee13be5ccce1891faef58b0ba8e31ad382dd792760d169",
+    "sha256_after": "ead0c2165efa9337d6ee13be5ccce1891faef58b0ba8e31ad382dd792760d169",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_register_tests.cpp",
+    "sha256_before": "319b61d5318c312d42fc3d41ba5d9ad09acd7aa045a4b9f3cebc1e505cbf81fa",
+    "sha256_after": "319b61d5318c312d42fc3d41ba5d9ad09acd7aa045a4b9f3cebc1e505cbf81fa",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_render_tests.cpp",
+    "sha256_before": "f15647a72b692fa54e7f91ac55917094d8c5425bd6dd5af83d25620b88132b92",
+    "sha256_after": "f15647a72b692fa54e7f91ac55917094d8c5425bd6dd5af83d25620b88132b92",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_saturating_tests.cpp",
+    "sha256_before": "5ee2ed9d0627628b6fc1f64e060e36c91774b0207191c4d901b2e5d5f11c2397",
+    "sha256_after": "5ee2ed9d0627628b6fc1f64e060e36c91774b0207191c4d901b2e5d5f11c2397",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_serial_tests.cpp",
+    "sha256_before": "56f11b2d6186ac03a2c39983f41fd86e627e5066d8a39dfdc3f69f1d708922c8",
+    "sha256_after": "56f11b2d6186ac03a2c39983f41fd86e627e5066d8a39dfdc3f69f1d708922c8",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_sync_tests.cpp",
+    "sha256_before": "ffba9034af033d7d2ddc329899885e03ce60cb0d9f3ea974265893ef2d7c25bb",
+    "sha256_after": "ffba9034af033d7d2ddc329899885e03ce60cb0d9f3ea974265893ef2d7c25bb",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_vif_register_tests.cpp",
+    "sha256_before": "c50cd34a8ddd1917daa73ce78ebb09c55ce82c5c8f4cb163ccb1dbed2a0db214",
+    "sha256_after": "c50cd34a8ddd1917daa73ce78ebb09c55ce82c5c8f4cb163ccb1dbed2a0db214",
+    "unchanged": true
+  },
+  {
+    "file": "tests/ps2_vif_upload_tests.cpp",
+    "sha256_before": "3c518575ce85ba23e96bbb84b5566d81e13c984c79fc40c986cdd40a865a182e",
+    "sha256_after": "3c518575ce85ba23e96bbb84b5566d81e13c984c79fc40c986cdd40a865a182e",
+    "unchanged": true
+  },
+  {
+    "file": "examples/ps2_authored_pipeline_expected.txt",
+    "sha256_before": "6c57889ad66a06d599765b7eafa419d6d4dbee176d351dac89fdf35ed9292824",
+    "sha256_after": "6c57889ad66a06d599765b7eafa419d6d4dbee176d351dac89fdf35ed9292824",
+    "unchanged": true
+  },
+  {
+    "file": "examples/ps2_authored_pipeline_test.bin",
+    "sha256_before": "e8a77d2d0d8a1a84ce22841bceecb7d237301404951682004738d5782c55c063",
+    "sha256_after": "e8a77d2d0d8a1a84ce22841bceecb7d237301404951682004738d5782c55c063",
+    "unchanged": true
+  },
+  {
+    "file": "examples/ps2_ee_demo.elf",
+    "sha256_before": "966bc630c23023f62458dfb4595a498eef3893d60d31d0cd3901e839f51ce2f8",
+    "sha256_after": "966bc630c23023f62458dfb4595a498eef3893d60d31d0cd3901e839f51ce2f8",
+    "unchanged": true
+  },
+  {
+    "file": "examples/ps2_gif_demo.elf",
+    "sha256_before": "6a1aee1d6c33a53c41afe9514a82bba8b1afb8f8b777358b6da3bf717417dad2",
+    "sha256_after": "6a1aee1d6c33a53c41afe9514a82bba8b1afb8f8b777358b6da3bf717417dad2",
+    "unchanged": true
+  },
+  {
+    "file": "examples/ps2_register_demo.elf",
+    "sha256_before": "be0ede0340f2f18f35feb7a080a917a327753e6e08ed5b2adebf009f1ee23bd0",
+    "sha256_after": "be0ede0340f2f18f35feb7a080a917a327753e6e08ed5b2adebf009f1ee23bd0",
+    "unchanged": true
+  },
+  {
+    "file": "tools/make_ps2_demo.py",
+    "sha256_before": "c704650b4ea18ff58535d6663e1d151bd9c78c048dbed53086bca9109322810e",
+    "sha256_after": "c704650b4ea18ff58535d6663e1d151bd9c78c048dbed53086bca9109322810e",
+    "unchanged": true
+  },
+  {
+    "file": "tools/make_ps2_gif_demo.py",
+    "sha256_before": "fb06472554e9220ebc0f48e69de491f1f3ed9a18be2b0d2da68acb47d230540e",
+    "sha256_after": "fb06472554e9220ebc0f48e69de491f1f3ed9a18be2b0d2da68acb47d230540e",
+    "unchanged": true
+  },
+  {
+    "file": "tools/make_ps2_register_demo.py",
+    "sha256_before": "dd7f09e93499fa71d94f28dc72446b42bc1ede4eb82da9a52d66075d847a0649",
+    "sha256_after": "dd7f09e93499fa71d94f28dc72446b42bc1ede4eb82da9a52d66075d847a0649",
+    "unchanged": true
+  }
+]

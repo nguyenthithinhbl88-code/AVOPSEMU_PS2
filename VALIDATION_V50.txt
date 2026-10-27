@@ -1,0 +1,7 @@
+AVOPSEMU PS2 v50
+35 PS2 suites passed, independent clean GCC C++17 -O2 -Wall -Wextra -Werror -pthread build and CLI link.
+4 ASan/UBSan suites passed: ps2_cop2_tests, ps2_dma_boot_loop_tests, ps2_vif_upload_tests, ps2_gs_boot_trace_tests.
+Six-opcode log (3) replay: old EE v49 source -> opcode 4842E000 stop; new EE v50 -> PC 8000DF48, preserving stack/RA/s0 and upper GPR bits.
+COP2 control and raw quadword moves, FBRST requests/mask, zero constants, CU2, interlock guards and unsupported microprogram launch tested.
+All 200 packaged PS1 files byte-identical to previous version. Separate GS auto-open preserved.
+No full PS2 VU execution or complete BIOS boot claimed. No native MSVC/RC/Windows runtime or real Sony BIOS validation available.

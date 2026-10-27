@@ -1,0 +1,23 @@
+# ninja log v7
+149	3248	8148023675155065	CMakeFiles/ps2_core.dir/src/ps2_cpu_extensions.cpp.obj	982f6253347a0b31
+123	3278	8148023674880690	CMakeFiles/ps2_core.dir/src/ps2_cache.cpp.obj	e504817cd74edd10
+233	3345	8148023675975274	CMakeFiles/ps2_core.dir/src/ps2_cop2.cpp.obj	9100ca2360db40d
+182	3657	8148023675465430	CMakeFiles/ps2_core.dir/src/ps2_cop0.cpp.obj	fd6d39dbdbbfcdde
+206	3745	8148023675705288	CMakeFiles/ps2_core.dir/src/ps2_cop1.cpp.obj	be5c5c3faa592a1b
+273	3811	8148023676371930	CMakeFiles/ps2_core.dir/src/ps2_gs.cpp.obj	ea5fb6f9024ae8a7
+245	3831	8148023676088272	CMakeFiles/ps2_core.dir/src/ps2_dma.cpp.obj	cdec66be5a12dd
+101	3878	8148023674670811	CMakeFiles/ps2_core.dir/src/ps2_boot_status.cpp.obj	385bfc48dfb1c9f
+76	3937	8148023674415301	CMakeFiles/ps2_core.dir/src/ps2_ba0.cpp.obj	89fc74297b3a12a3
+258	5579	8148023676227803	CMakeFiles/ps2_core.dir/src/ps2_ee.cpp.obj	b7a87728ea57472b
+3879	5784	8148023712428355	CMakeFiles/avopsemu_ps2.dir/src/ps2_winmain.cpp.obj	7f922060cc605865
+3811	6071	8148023711755022	CMakeFiles/ps2_core.dir/src/ps2_mmi.cpp.obj	ef0f3335324dd072
+3746	6743	8148023711102858	CMakeFiles/ps2_core.dir/src/ps2_memory_controller.cpp.obj	f586dfb0bf11479f
+3279	6860	8148023706434007	CMakeFiles/ps2_core.dir/src/ps2_hardware.cpp.obj	e9599fe6900a5725
+5580	6931	8148023729444941	CMakeFiles/avopsemu_ps2.dir/avopsemu_ps2.rc.res	6d5e9f974489387d
+3256	6961	8148023706214031	CMakeFiles/ps2_core.dir/src/ps2_gs_render.cpp.obj	232cb5ee6703d34f
+3346	6997	8148023707103409	CMakeFiles/ps2_core.dir/src/ps2_iop.cpp.obj	5a28e4bdebf8cfa
+3666	7144	8148023710305346	CMakeFiles/ps2_core.dir/src/ps2_ipu.cpp.obj	2eea4945a88ab48a
+3832	7349	8148023711965464	CMakeFiles/ps2_core.dir/src/ps2_peripherals.cpp.obj	d3a7e2f80bb8ad0e
+7350	7810	8148023747147172	ps2_core.lib	d0043a7ba7749fba
+3938	8118	8148023713020078	CMakeFiles/avopsemu_ps2.dir/src/ps2_window.cpp.obj	7a77e5ed5d09f039
+8119	11852	8148023754832010	AVOPSEMU_PS2.exe	e3318872b54ed768
